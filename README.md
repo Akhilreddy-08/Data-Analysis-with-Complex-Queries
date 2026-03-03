@@ -13,8 +13,11 @@ $DOMAIN *: SQL
 *MENTOR *: NEELA SANTOSH
 
 The second phase of the project moved beyond simple data retrieval to focus on Data Analysis. I utilized complex SQL features to extract strategic insights from the bookstore's datasets.
+
 *Window Functions*: I implemented the RANK() function to create a "Genre Leaderboard". This allowed the system to rank books by price within their specific categories (e.g., finding the top-priced Fantasy book vs. the top-priced Fiction book) without splitting the query into multiple steps.
+
 *Common Table Expressions (CTEs)*: I designed CTEs to calculate the "Lifetime Value" of each customer. By aggregating total spending across multiple orders, the database can automatically flag VIP customers who contribute the most to the store's revenue.
+
 *Subqueries*: Nested queries were used to filter products based on dynamic criteria, such as identifying books priced above the current store-wide average.
 
 #OUTPUT
