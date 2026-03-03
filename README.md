@@ -22,3 +22,7 @@ During this internship, I applied several advanced SQL techniques to ensure the 
 Through this project, I’ve learned that SQL is much more than just storing data—it's about how that data relates and provides value to a business. This system provides a scalable, secure, and efficient foundation for any online retail environment
 
 #OUTPUT
+
+<img width="738" height="486" alt="Image" src="https://github.com/user-attachments/assets/abf80485-7079-4d92-a06a-88cbd9672a83" />
+<img width="473" height="516" alt="Image" src="https://github.com/user-attachments/assets/93970e5f-c22b-4a10-87d8-e2b159c86ba6" />
+<img width="733" height="485" alt="Image" src="https://github.com/user-attachments/assets/ff24e16d-720a-44f2-8080-b25a5241fbeb" />
