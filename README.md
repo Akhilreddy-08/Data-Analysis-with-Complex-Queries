@@ -12,6 +12,8 @@ $DOMAIN *: SQL
 
 *MENTOR *: NEELA SANTOSH
 
+*Task 2*: Data Analysis with Complex Queries
+
 The second phase of the project moved beyond simple data retrieval to focus on Data Analysis. I utilized complex SQL features to extract strategic insights from the bookstore's datasets.
 
 *Window Functions*: I implemented the RANK() function to create a "Genre Leaderboard". This allowed the system to rank books by price within their specific categories (e.g., finding the top-priced Fantasy book vs. the top-priced Fiction book) without splitting the query into multiple steps.
