@@ -12,10 +12,10 @@ $DOMAIN *: SQL
 
 *MENTOR *: NEELA SANTOSH
 
-Technical Depth: This task focused on transforming raw numbers into strategy using modern SQL features.
-Window Functions (RANK): By partitioning the data by Genre, I created a dynamic leaderboard of books. This allows a store manager to see the top-performing titles in "Fiction" separately from "Biography" without running multiple queries.
-CTEs for Revenue Tracking: I built a Common Table Expression to act as a virtual "Accounting Ledger". It calculates the total revenue per customer by multiplying Price and Quantity, then filtering for "High-Value Clients" who have spent over a certain threshold.
-Subqueries: Implemented nested queries to find books priced above the global average, helping the store position its "Premium" collectioN
+The second phase of the project moved beyond simple data retrieval to focus on Data Analysis. I utilized complex SQL features to extract strategic insights from the bookstore's datasets.
+*Window Functions*: I implemented the RANK() function to create a "Genre Leaderboard". This allowed the system to rank books by price within their specific categories (e.g., finding the top-priced Fantasy book vs. the top-priced Fiction book) without splitting the query into multiple steps.
+*Common Table Expressions (CTEs)*: I designed CTEs to calculate the "Lifetime Value" of each customer. By aggregating total spending across multiple orders, the database can automatically flag VIP customers who contribute the most to the store's revenue.
+*Subqueries*: Nested queries were used to filter products based on dynamic criteria, such as identifying books priced above the current store-wide average.
 
 #OUTPUT
 
